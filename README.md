@@ -1,7 +1,7 @@
 # GSF Innovation WG
 
-Chair - Pierre Lagarde (MSFT)
-V.Chair - Dan Lewis-toakley (ThoughtWorks)
+- Chair - Pierre Lagarde (MSFT)
+- V.Chair - Dan Lewis-toakley (ThoughtWorks)
 
 ## [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Private) - Only for informal communication
 
