@@ -17,7 +17,7 @@
 * [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
 
 ## Getting Started
-Welcome to the Standard Working Group.
+Welcome to the Innovation Working Group.
 
 This working group is part of the Green Software Foundation. It is open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
 
