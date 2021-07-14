@@ -21,9 +21,9 @@ Welcome to the Innovation Working Group.
 
 This working group is part of the Green Software Foundation. It is open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
 
-- Make sure you have joined the GSF slack and have introduced yourself in the standards slack channel.
+- Make sure you have joined the GSF slack and have introduced yourself in the Innovatation slack channel.
 - We have weekly meetings over zoom, ensure you have access to the above meeting schedule.
-- Familiarize yourself with our scope above and take a look at our current projects in flight, both links are above.
+- Familiarize yourself with our scope above and take a look at our current projects in flight - links are above.
 - If you are having any problems with access please reach out to smcilroy@contractor.linuxfoundation.org  or helpdesk@greensoftware.io.
 
 ## Copyright
