@@ -1,7 +1,8 @@
 # GSF Innovation WG
 
 ## Scope
->To be added
+- Direct open-source, open-data and academic research in areas that advance the field of green software.
+- Sponsor key open-source and open-data projects to give confidence they will be supported and maintained for the long term.
 
 ## Appointments 
 - Chair - Pierre Lagarde (MSFT)
