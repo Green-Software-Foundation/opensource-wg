@@ -9,7 +9,7 @@
 - V.Chair - Dan Lewis-toakley (ThoughtWorks)
 
 ## Projects
-- [Green Software Innovation](https://github.com/Green-Software-Foundation/iwg_green_software_innovation/tree/dev)
+- [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
 
 ## Resources
 
