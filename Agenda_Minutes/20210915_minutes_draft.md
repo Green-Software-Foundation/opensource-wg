@@ -13,15 +13,15 @@ Sean Mcilroy - LF<br>
 Pierre Lagarde - MS<br>
 Vaughn Knight - MS<br>
 Asim Hussain - MS<br>
-Anthony Laye - <br>
-Antonio Fisichella - <br>
-Arelys Alvarez - <br>
-Cameron Casher - <br>
-Chiara Giglio - <br>
+Anthony Laye - GH <br>
+Antonio Fisichella ISP - <br>
+Arelys Alvarez - TW <br>
+Cameron Casher - TW <br>
+Giglio Chiara - ISP <br>
 Dan Lewis-Toakley - TW <br>
-Dominick Dennisur - <br>
+Dominick Dennisur - MS <br>
 Henry Richards - WT <br>
-H Parker - <br>
+Adam Hess - GH <br>
 Jose Lopez - Globant <br>
 Massimo Poli - ISP <br>
 Mihaela Turturean ISP <br>
@@ -45,9 +45,14 @@ feel free to contact Andrew Updegrove of the firm of Gesmer Updegrove LLP, which
   
 ## Agenda Approval (decision) 
 2021.09.15 Agenda
+
+Sean Mcilroy reviews the agenda. Vaughn Knight moves to adopt the agenda. All are in favour. The agenda is agreed
  
 ## Approval of previous meeting minutes (decision)
 [2021.09.09_Minutes](https://github.com/Green-Software-Foundation/innovation_wg/blob/main/Agenda_Minutes/20210908_minutes.md)
+
+Vaughn Knight moves to approve the minutes 2021.09.09_Minutes. All are in favour. The Minutes are agreed
+
 
 ## Review Project Proposal submissions
 
@@ -70,20 +75,34 @@ Dan offered an overview of the SCI Core libraray - Once we publish the Software 
 
 a. Pull Requests - https://github.com/Green-Software-Foundation/awesome-green-software/pulls
 
+Research papers on AI's carbon impact and data center cooling efficiency - https://github.com/Green-Software-Foundation/awesome-green-software/pull/10
+> Agreed and merged
+
 b. Issues - https://github.com/Green-Software-Foundation/awesome-green-software/issues
+> Issues to be reviewed at at a later date
 
 ## Review Innovation WG repo
 
 a. Issues - https://github.com/Green-Software-Foundation/innovation_wg/issues
 
+Priority for 3 Proposed Innovations - https://github.com/Green-Software-Foundation/innovation_wg/issues/1
+> Closed
+
+$100K GSF Funding For OSS Carbon-Aware API - https://github.com/Green-Software-Foundation/innovation_wg/issues/4
+> Closed
+> 
 ## WG Meeting Schedule
 Pierre Lagarde
-- 29 August @ 1700 BST
+- 22nd Sept @ 1700 BST
 
-## Dictionary Document
+> Agreed
+
+## Dictionary Document (Deferred)
 Sean Mcilroy
 - Review Dictionary Document 
 
 ## Any Other Business
+Nil
 
 ## Adjournment
+Vaughn Knight moves to adjourn the meeting. No objections. Meeting closed
