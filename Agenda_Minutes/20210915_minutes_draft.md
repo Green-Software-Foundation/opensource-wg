@@ -70,6 +70,7 @@ b. [SCI core library](https://docs.google.com/document/d/1DPnH2oIki2sTIfwih0JVoX
 
 Dan offered an overview of the SCI Core libraray - Once we publish the Software Carbon Intensity Standard (SCI), many developers are going to want to use it to quantify the carbon intensity of their software. The project aims to make that easy for developers, by building a core Node package that developers can install, and that handles the underlying implementation of the SCI.
 
+> Proposal going to be reviewed over the next few weeks by the WG members, additionally the IWG will engage in converstaion with the SWG to see how the SCI will align with this proposal. 
 
 ## Review - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
 
