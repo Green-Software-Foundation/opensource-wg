@@ -10,6 +10,7 @@
 
 ## Projects
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
+- [carbon-aware-sdk](https://github.com/Green-Software-Foundation/carbon-aware-sdk)
 
 ## Resources
 
