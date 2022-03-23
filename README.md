@@ -15,8 +15,8 @@
 ## Resources
 
 * [Add me to meeting - Members Only](https://greensoftware.foundation/onboarding/) (Work Email required)
-* [Shared Google Drive](https://drive.google.com/drive/u/3/folders/1clNLC2JzsbDcn9yFH11rCtz1jqTTDqzE) (Members Only)
-* [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
+* [Shared Google Drive](https://drive.google.com/drive/folders/10OSmLJ_qI_t5IFLnonET29xuhnACRfVT) (Members Only)
+* [Slack Channel](https://greensoftwarefdn.slack.com/archives/C028640QYSV) (Members Only)
 
 ## Getting Started
 Welcome to the Innovation Working Group.
@@ -35,7 +35,7 @@ Innovation WG projects are copyrighted under [Creative Commons Attribution 4.0](
 No Patent License. No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
 
 ## License
-Innovation WG projects are licensed under the MIT License - see the [License.md](license/innovation-wg-license.md)file for details 
+Innovation WG projects are licensed under the MIT License - see the [License.md](license/innovation-wg-license.md) file for details 
 
 ## Dataset
 CDLA-Permissive-1.0
