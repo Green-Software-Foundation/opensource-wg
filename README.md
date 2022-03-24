@@ -15,7 +15,7 @@
 ## Resources
 
 * [Add me to meeting - Members Only](https://greensoftware.foundation/onboarding/) (Work Email required)
-* [Shared Google Drive](https://drive.google.com/drive/u/3/folders/1clNLC2JzsbDcn9yFH11rCtz1jqTTDqzE) (Members Only)
+* [Shared Google Drive](https://drive.google.com/drive/folders/0AETfdYpYpIbxUk9PVA) (Members Only)
 * [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
 
 ## Getting Started
