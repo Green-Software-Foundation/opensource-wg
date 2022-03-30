@@ -15,8 +15,8 @@
 ## Resources
 
 * [Add me to meeting - Members Only](https://greensoftware.foundation/onboarding/) (Work Email required)
-* [Shared Google Drive](https://drive.google.com/drive/folders/10OSmLJ_qI_t5IFLnonET29xuhnACRfVT) (Members Only)
-* [Slack Channel](https://greensoftwarefdn.slack.com/archives/C028640QYSV) (Members Only)
+* [Shared Google Drive](https://drive.google.com/drive/folders/0AETfdYpYpIbxUk9PVA) (Members Only)
+* [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
 
 ## Getting Started
 Welcome to the Innovation Working Group.
