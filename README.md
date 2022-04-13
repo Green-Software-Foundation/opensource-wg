@@ -5,8 +5,8 @@
 - Sponsor key open-source and open-data projects to give confidence they will be supported and maintained for the long term.
 
 ## Appointments 
-- Chair - Pierre Lagarde (MSFT)
-- V.Chair - Dan Lewis-toakley (ThoughtWorks)
+- Co-Chair - Chris Lloyd-Jones (Avanade)
+- Co-Chair - Dan Lewis-toakley (ThoughtWorks)
 
 ## Projects
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
