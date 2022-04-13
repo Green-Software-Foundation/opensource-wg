@@ -1,4 +1,4 @@
-# GSF Innovation WG
+# GSF Opensource WG
 
 ## Scope
 - Direct open-source, open-data and academic research in areas that advance the field of green software.
