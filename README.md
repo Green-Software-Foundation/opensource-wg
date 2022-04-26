@@ -1,4 +1,4 @@
-# GSF Innovation WG
+# GSF Opensource WG
 
 ## Scope
 - Direct open-source, open-data and academic research in areas that advance the field of green software.
@@ -37,14 +37,14 @@ Innovation WG projects are copyrighted under [Creative Commons Attribution 4.0](
 No Patent License. No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
 
 ## License
-Innovation WG projects are licensed under the MIT License - see the [License.md](license/innovation-wg-license.md)file for details
+Innovation WG projects are licensed under the MIT License - see the [License.md](license/innovation-wg-license.md) file for details 
 
 ## Dataset
 CDLA-Permissive-1.0
 
 ## Collaborating With the WG
 
-1. Create a [new Issue](https://github.com/Green-Software-Foundation/standards_wg/issues/new)
+1. Create a [new Issue](https://github.com/Green-Software-Foundation/innovation_wg/issues/new)
 2. Discuss Issue with WG --> Create PR if required
 3. PR to be submitted against the **DEV feature branch**
 4. PR discussed with the WG. If agreed, the WG Chair will merge into **DEV Feature branch**
