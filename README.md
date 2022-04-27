@@ -4,7 +4,7 @@
 - Direct open-source, open-data and academic research in areas that advance the field of green software.
 - Sponsor key open-source and open-data projects to give confidence they will be supported and maintained for the long term.
 
-## Appointments 
+## Appointments
 - Co-Chair - Chris Lloyd-Jones (Avanade)
 - Co-Chair - Dan Lewis-toakley (ThoughtWorks)
 
@@ -19,7 +19,7 @@
 * [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
 
 ## Getting Started
-Welcome to the Innovation Working Group.
+Welcome to the Open Source Innovation Working Group.
 
 This working group is part of the Green Software Foundation. It is open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
 
@@ -27,6 +27,8 @@ This working group is part of the Green Software Foundation. It is open to any m
 - We have weekly meetings over zoom, ensure you have access to the above meeting schedule.
 - Familiarize yourself with our scope above and take a look at our current projects in flight - links are above.
 - If you are having any problems with access please reach out to smcilroy@contractor.linuxfoundation.org  or helpdesk@greensoftware.io.
+
+[Our calendar of events for Open Source WG projects can be found here.](./calendar.md)
 
 ## Copyright
 Innovation WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
@@ -46,7 +48,7 @@ CDLA-Permissive-1.0
 2. Discuss Issue with WG --> Create PR if required
 3. PR to be submitted against the **DEV feature branch**
 4. PR discussed with the WG. If agreed, the WG Chair will merge into **DEV Feature branch**
- 
+
 <figure>
 	<img src="images/single-trunk-branch.svg" alt="GSF Single-Trunk Based Branch Flow">
 	<figcaption></figcaption>
