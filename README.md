@@ -18,6 +18,9 @@
 * [Shared Google Drive](https://drive.google.com/drive/folders/0AETfdYpYpIbxUk9PVA) (Members Only)
 * [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
 
+## GitHub Training 
+- [Getting started with GitHub](https://green-software-foundation.github.io/github-training/)
+
 ## Getting Started
 Welcome to the Open Source Innovation Working Group.
 
