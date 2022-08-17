@@ -1,0 +1,31 @@
+name: Handle Stale Issues and PRs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 1 * * *'
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  todos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v5
+        with:
+          stale-issue-message: 'This issue is stale and will be closed at the next working group, because it has been open for 30 days with no activity. Remove ready-for-close label or comment to keep this going.'
+          stale-pr-message: 'This PR will be merged into Dev at the next working group, if there are no merge conflicts, as there have been 7 days with no activity. Remove ready-for-merge label or comment or this will be merged at the next working group.'
+          days-before-issue-stale: 30
+          days-before-pr-stale: 14
+          days-before-issue-close: -1
+          days-before-pr-close: -1
+          stale-issue-label: 'ready-for-close'
+          stale-pr-label: 'ready-for-merge'
+          debug-only: true
+
+# Original specification: https://github.com/Green-Software-Foundation/opensource_wg/issues/34
+# Issues: 30 days without comments or reactions
+# PRs: Merge into dev after 7 days, with no comments
+# GitHub Action: Notify in slack, with chair or project lead to merge
+# Chairs and convener to have discretion to move discussions to issues/vice versa. Broadly, discussions will become issues when consensus is reached.
