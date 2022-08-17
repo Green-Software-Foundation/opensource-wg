@@ -9,7 +9,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  todos:
+  markclosure:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/stale@v5
@@ -22,7 +22,6 @@ jobs:
           days-before-pr-close: -1
           stale-issue-label: 'ready-for-close'
           stale-pr-label: 'ready-for-merge'
-          debug-only: true
 
 # Original specification: https://github.com/Green-Software-Foundation/opensource_wg/issues/34
 # Issues: 30 days without comments or reactions
