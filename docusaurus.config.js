@@ -11,7 +11,7 @@ const config = {
   tagline:
     "Direct open-source, open-data and academic research in areas that advance the field of Green Software",
   // Change to site url
-  url: "https://opensource-wg.greensoftware.foundation/",
+  url: "https://opensource.greensoftware.foundation/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -85,7 +85,7 @@ const config = {
               },
               {
                 label: "Website",
-                href: "https://opensource-wg.greensoftware.foundation",
+                href: "https://opensource.greensoftware.foundation",
               },
             ],
           },
