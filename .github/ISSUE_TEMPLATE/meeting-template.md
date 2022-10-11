@@ -44,6 +44,10 @@ Any untracked attendees will be added by the GSF team below:
 {add text}
 
 ## [Projects Update](https://github.com/Green-Software-Foundation/opensource_wg/issues?q=is%3Aopen+is%3Aissue+label%3A%22Project+Update%22)
+  - [ ] #48
+  - [ ] #49
+  - [ ] #50
+  - [ ] #51
 
 ## [Discussions](https://github.com/Green-Software-Foundation/opensource_wg/discussions)
 - [ ] Discuss Issue XXXXX
@@ -54,12 +58,14 @@ Any untracked attendees will be added by the GSF team below:
 - [ ] For FAQ submissions - [click here](https://github.com/Green-Software-Foundation/opensource_wg/issues/new/choose)
 
 ## Next Meeting
+{hh:mm DD-MM}
 
 ## AOB, Q&A 
+{Request for any other business}
 
 ## Adjourn 
-
+{Motion to adjourn}
 -----------
 ## Action Items
-- [ ] {Add task and who it's assigned to}
-- [ ] {Add task and who it's assigned to}
+- [ ] {Add task, who it's assigned to and any milestone dates}
+- [ ] {Add task, who it's assigned to and any milestone dates}
