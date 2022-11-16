@@ -1,52 +1,60 @@
-Follow the instructions in [CONFIGURE.md](CONFIGURE.md) to learn how to configure this template repository.
+# GSF Opensource WG
 
-# PROJECT-TITLE
+> Find out more on our website at https://opensource.greensoftware.foundation/
 
-TODO
+## Scope
+- Direct open-source, open-data and academic research in areas that advance the field of green software.
+- Sponsor key open-source and open-data projects to give confidence they will be supported and maintained for the long term.
 
-This is a project run through the [Community Working Group](https://grnsft.org/community-wg) in the [Green Software Foundation](https://greensoftware.foundation) and can be viewed through https://TODO.greensoftware.foundation
+## Appointments
+- Co-Chair - Chris Lloyd-Jones (Avanade)
+- Co-Chair - Dan Lewis-toakley (ThoughtWorks)
+
+## Projects
+- [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
+- [carbon-aware-sdk](https://github.com/Green-Software-Foundation/carbon-aware-sdk)
+
+## Resources
+
+* [Add me to meeting - Members Only](https://greensoftware.foundation/onboarding/) (Work Email required)
+* [Shared Google Drive](https://drive.google.com/drive/folders/0AETfdYpYpIbxUk9PVA) (Members Only)
+* [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
+
+## GitHub Training
+- [Getting started with GitHub](https://green-software-foundation.github.io/github-training/)
+
+## Getting Started
+Welcome to the Open Source Working Group.
+
+This working group is part of the Green Software Foundation. It is open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
+
+- You can optionally join the GSF slack and have introduce yourself in the Open Source working group slack channel.
+- We have weekly meetings over zoom, ensure you have access to the above meeting schedule.
+- Familiarize yourself with our scope above and take a look at our current projects in flight - links are above.
+- If you are having any problems with access please reach out to sean@greensoftware.foundation or help@greensoftware.foundation.
+
+[Our calendar of events for Open Source WG projects can be found here.](./calendar.md)
 
 ## Copyright
-This project is copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+Open Source WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Patent
-No Patent License.
+No Patent License. No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
 
 ## License
-This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details.
+Open Source WG code projects are licensed under the MIT License - see the [License.md](license/innovation-wg-license.md) file for details
 
-## Contributing
+## Dataset licence
+CDLA-Permissive-1.0
 
-This project is open source and welcomes public contribution via issues, discussions and pull requests.
+## Collaborating With the WG
 
-Members of the Green Software Foundation also meet and discuss aspects of this project either in-person or virtual via email or video.
+1. Create a [new Issue](https://github.com/Green-Software-Foundation/opensource-wg/issues/new)
+2. Discuss Issue with WG --> Create PR if required
+3. PR to be submitted against the **Main branch**
+4. PR discussed with the WG. If agreed, the WG Chair will merge into **Main branch**
 
-Instructions for how to contribute to this project can be found in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+5. See our website for further details: opensource.greensoftware.foundation/
 
-## Editing Content
-
-This project is a static website based on the project https://docusaurus.io, you can find more information about docusaurus here: https://docusaurus.io/docs
-
-The `docs` folder contains all of the material in this project, editing any file there in the `main` branch will update the website. If you are only interested in editing content on the website then you should not need to leave the `docs` folder.
-
-The documentation files use a format called markdown and they end in `.md` which supports certain basic styling features like so: https://docusaurus.io/docs/markdown-features
-
-## Developing Locally
-
-To edit this project on your local machine and see the output as it would be rendered on the website you will need `node` at least version 14 installed.
-
-We also recommend to use `yarn` as the package management solution as the deployment scripts use `yarn` not `npm`.
-
-`npm -g install yarn`
-
-`yarn install`
-
-Then to run the project locally type
-
-`yarn run docusaurus start`
-
-and visit https://localhost:3000 in your favorite browser or whatever the command above prints out in the terminal.
-
-## Site Configuration
-
-To edit attributes of the website, customize the menu, sidebar and footer for example, you will need to edit the `docusaurus.config.js` file, more information about the options that are present there can be found here: https://docusaurus.io/docs/api/docusaurus-config
+## Help
+help@greensoftware.foundation
