@@ -1,7 +1,7 @@
 # GSF Opensource WG
 
 > Find out more on our website at https://opensource.greensoftware.foundation/
-
+>
 ## Scope
 - Direct open-source, open-data and academic research in areas that advance the field of green software.
 - Sponsor key open-source and open-data projects to give confidence they will be supported and maintained for the long term.
@@ -11,12 +11,15 @@
 - Co-Chair - Dan Lewis-toakley (ThoughtWorks)
 
 ## Projects
-- [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
-- [carbon-aware-sdk](https://github.com/Green-Software-Foundation/carbon-aware-sdk)
+- [Carbon Aware SDK](https://greensoftware.foundation/projects/carbon-aware-sdk)
+- [Awesome Green Software](https://greensoftware.foundation/projects/awesome-green-software)
+- [SCI Open Ontology](https://greensoftware.foundation/projects/sci-open-ontology)
+- [Carbon CI Pipeline Tooling](https://greensoftware.foundation/projects/carbon-ci-pipeline-tooling)
+- [Impact Engine Framework](https://github.com/green-Software-Foundation/ief/)
 
 ## Resources
-
-* [Add me to meeting - Members Only](https://greensoftware.foundation/onboarding/) (Work Email required)
+* [Send me the calendar invites- Members Only](https://greensoftware.foundation/subscribe/) (Work Email required)
+* [Add me to the foundation and working group - Members Only](https://greensoftware.foundation/onboarding/) (Work Email required)
 * [Shared Google Drive](https://drive.google.com/drive/folders/0AETfdYpYpIbxUk9PVA) (Members Only)
 * [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
 
